@@ -1,11 +1,7 @@
 # Welcome to my GitHub Profile!
-
-## 🌌 About Me
 Hi! I'm Aditi— a passionate software engineer specializing in backend development, data engineering, and AI. I love building scalable APIs, crafting ML models, and architecting solutions on the cloud. Whether designing efficient cloud solutions or competing in hackathons, I'm always doing hands-on work in tech.
 
 Check out my resume ![here!](https://docs.google.com/document/d/14cSvwomSe7ntBu3r0XfWZ06tyS3QOy0jA-73F37LtUI/edit?usp=sharing)
-
----
 
 ## 🛠️ Tech Stack
 
