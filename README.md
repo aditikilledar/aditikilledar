@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile!
 Hi! I'm Aditi— a passionate software engineer specializing in backend development, data engineering, and AI. I love building scalable APIs, crafting ML models, and architecting solutions on the cloud. Whether designing efficient cloud solutions or competing in hackathons, I'm always doing hands-on work in tech.
 
-Check out my resume here! https://docs.google.com/document/d/14cSvwomSe7ntBu3r0XfWZ06tyS3QOy0jA-73F37LtUI/edit?tab=t.0
+Check out my resume here! https://docs.google.com/document/d/14cSvwomSe7ntBu3r0XfWZ06tyS3QOy0jA-73F37LtUI/edit?tab=t.0 
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
