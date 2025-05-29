@@ -17,5 +17,5 @@ Check out my resume here! https://docs.google.com/document/d/14cSvwomSe7ntBu3r0X
 ## 🌟 Extracurriculars
 - 🏆 Hackathons & Coding Competitions (1st Place - Principal Financial Group AI Challenge)  
 - 👩‍💻 Women in Computer Science Advocate  
-- 🌍 Fluent in 5+ Languages (incl. German, Korean)  
+- 🌍 5+ Foreign Languages (incl. German, Korean)  
 ---
